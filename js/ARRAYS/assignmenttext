@@ -1,0 +1,9 @@
+ Diffrence between js and node js ?
+
+
+The server-side execution of Javascript is made possible via NodeJS, a cross-platform, open-source Javascript runtime environment. Javascript code can run outside of the browser with the help of Node.js. Some modules are included with Nodejs, which is primarily used for web development. While on the other hand, Javascript is a Scripting language. JS is the most common abbreviation. We can say that Javascript is an upgraded version of the ECMA script. Although it is built on prototype inheritance, the high-level programming language Javascript uses the Oops concept.
+
+Below are some differences between Node.JS and JavaScript:
+
+     
+
