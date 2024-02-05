@@ -12,7 +12,7 @@ console.log(num1);
 console.log(num2);
 
 // Run a for loop for next term 
-for (let i=3;i<=numterms;i++){
+for (let i=3;i<=8;i++){
     let nexterms = num1+num2;
 
     // Print next term

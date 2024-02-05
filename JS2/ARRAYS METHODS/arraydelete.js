@@ -1,4 +1,4 @@
-let enames=['rajesh','Shan','Rahul','sonia','Priyanka','modi']
+let enames=['rajesh','Shanbor','surthi','sunil','sri','nayana']
 //index       0        1       2      3         4         5
 
 console.log(enames)

@@ -13,3 +13,5 @@ ids.pop()
 ids.shift()
 
 console.log(ids)
+
+//unshipt will add an element to the beginning of the array
