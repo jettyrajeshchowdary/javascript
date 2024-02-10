@@ -1,0 +1,9 @@
+>>setTimeout-executing provided function after certain time interval
+syntax= setTimeout(()=>{
+
+}  )
+
+>>setInterval-executing provided function for every certain time
+syntax=setInterval(()=>{
+
+}  )
