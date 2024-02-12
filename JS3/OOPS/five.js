@@ -1,6 +1,6 @@
 class Account{
     acc_Id=101;
-    acc_Name='sunil'
+    acc_Name='sunil rajesh shanbor'
     acc_Bal = 50000 
 
     open_Account(){
