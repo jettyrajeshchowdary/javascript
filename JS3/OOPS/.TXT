@@ -1,0 +1,25 @@
+OOP:object oriented programmin: we oops to solve realworld problems using object
+to create object we need class
+class= class is template /datatype to construct object that contains properties and methods
+* In javascript we cant print the address of the object so we give the reference variable/object
+* we use 'new'keyword to construct object
+*variable-property
+*function-methods
+class-property+methods
+class
+
+example to create class
+
+
+var eid=101;                     class employee{
+                                       eid=101;
+                                       get_Details{
+
+                                       }
+}                                     
+ function get_Details(){              }
+
+}
+
+ >> we use object to access class members from the outside 
+ >> we use 'this' keyword to access class members inside the class
