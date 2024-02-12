@@ -1,6 +1,6 @@
 let emp ={
     eid : 101,
-    name:"sunil",
+    name:"sunil rajesh shanbor",
     esal:45000
 }
 let person ={}
