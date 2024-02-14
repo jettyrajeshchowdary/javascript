@@ -1,4 +1,4 @@
-let enames=['rahul','sonia','priya','modi','swah','dhone','rajsh','madan']
+let enames=['rajesh','sunil','sruthi','sri','shanbor','nayana','asiesh','madan']
 //index      0        1     
 console.log(enames.length)
 //read array elements

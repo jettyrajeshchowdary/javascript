@@ -1,4 +1,4 @@
-let ids=[]
+let ids=[]  
 let uids=[101,102,103]
 //how to find given array is empty or not ?
 //uisng array-length property
