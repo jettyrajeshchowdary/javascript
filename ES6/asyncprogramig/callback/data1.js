@@ -6,4 +6,4 @@ let createEmployee=(emp)=>{
 let getEmployees=()=>{
     setTimeout(()=>{},2000)
 }
-createEmployee({id:103,name:"Priyanka",sal:65000}) 
+createEmployee({id:103,name:"Priyanka",sal:65000})  

@@ -9,6 +9,6 @@ let goToGoa = (success,failure)=>{
 
 goToGoa((msg)=>{
     console.log(msg)
-},(err)=>{
+},(err)=>{ 
     console.log(err)
 }) 
