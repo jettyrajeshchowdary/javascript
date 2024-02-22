@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Dom Data read</title>
+  </head>
+  <body>
+    <h1>Data Manipulation with DOM and events</h1>
+    <div>
+      <div class="table-feature">
+        <h4 id="male-detail">The number of male employees:</h4>
+        <h4 id="female-detail">The number of female employees:</h4>
+        <h4 id="other-detail">The number of other gender employees:</h4>
+
+        <button onclick='filterHandler("Male")'>Male</button>
+        <button onclick='filterHandler("Female")'>Female</button>
+        <div class="pagination">
+          <button onclick="pageHandler(1)">1</button>
+          <button onclick="pageHandler(2)">2</button>
+          <button onclick="pageHandler(3)">3</button>
+          <button onclick="pageHandler(4)">4</button>
+          <button onclick="pageHandler(5)">5</button>
+        </div>
+      </div>
+
+      <table border="2" width="80%">
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Gender</th>
+            <th>Email</th>
+          </tr>
+        </thead>
+        <tbody id="table-body"></tbody>
+      </table>
+    </div>
+  </body>
+  <script src="./data.js"></script>
+</html>
