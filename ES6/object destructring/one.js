@@ -8,7 +8,7 @@ let state={
     status:true,
     count:100,
 
-
+ 
 }
 // console.log(state.product)
 

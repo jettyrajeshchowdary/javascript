@@ -6,3 +6,4 @@ let add = ()=>{
 
 }
 export {tax ,discount ,add }
+ 

@@ -9,7 +9,7 @@ let createEmployee=(emp)=>{
     },4000)
 }
 
-let getEmployees=()=>{
+let getEmployees=()=>{ 
     setTimeout(()=>{
         let rows=""
         for(employee of employees){

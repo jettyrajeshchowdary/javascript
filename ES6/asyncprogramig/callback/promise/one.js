@@ -11,4 +11,4 @@ goToGoa((msg)=>{
     console.log(msg)
 },(err)=>{
     console.log(err)
-})
+}) 

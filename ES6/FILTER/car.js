@@ -22,7 +22,7 @@ for(car of cars){
     if(car.price>5000000) {
        new_cars.push(car)
     }
-}
+}    
 
 console.log(new_cars) */
 

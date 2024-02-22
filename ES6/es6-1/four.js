@@ -5,4 +5,4 @@ let new_Ids=[]
 for(id of ids){
     new_Ids.push(id)
 }
-console.log(new_Ids)
+console.log(new_Ids) 

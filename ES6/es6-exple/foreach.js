@@ -6,7 +6,7 @@
 let new_Ids=ids.map((id)=>{
     return  id+1;
 })
-
+ 
 console.log(ids)
 console.log(new_Ids) */
 

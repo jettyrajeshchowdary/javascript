@@ -12,7 +12,7 @@ let new_ids=[]
 for( eid of eIds){
  new_ids.push(eid)
 
-}
+} 
 console.log(new_ids) */
 
 //using spread operator

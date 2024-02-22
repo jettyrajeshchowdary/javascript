@@ -3,4 +3,4 @@ let b=20;
 
 [a,b]=[b,a]
 console.log(a)
-console.log(b)
+console.log(b) 

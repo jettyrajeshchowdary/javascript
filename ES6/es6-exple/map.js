@@ -8,7 +8,7 @@ for(id of ids){
 
 console.log(ids)
 console.log(new_Ids) */
-
+ 
 //using map() >> iterates array and executes the provided function
 
 let new_Ids=ids.map((id)=>{

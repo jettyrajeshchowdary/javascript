@@ -5,4 +5,4 @@
 // import car from './cars.js'   for es6
 // for multiple values import{ car,price}from './cars.js' 
 
-console.log(car)
+console.log(car)  

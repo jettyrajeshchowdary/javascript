@@ -17,7 +17,7 @@ console.log(new_ids)
  */
 
 //to extend arrays
-
+ 
 /* let num=[101,102,103]
 let new_num=[...num,104,105,106]
 

@@ -4,4 +4,4 @@ const [firstname,lastname,email]=info
 
 console.log(firstname)
 console.log(lastname)
-console.log(email)
+console.log(email) 

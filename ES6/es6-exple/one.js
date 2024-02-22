@@ -8,4 +8,4 @@ let a=300;                  redeclaration is not possible it block/function leve
 console.log(a) */
 
 
-//const min_Bal=500;         it leads to constant refernce to a value,,block level scope
+//const min_Bal=500;         it leads to constant refernce to a value,,block level scope 
